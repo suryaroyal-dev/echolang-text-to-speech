@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+spoken.mp3
+test-output.mp3

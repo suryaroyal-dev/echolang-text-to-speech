@@ -1,0 +1,5 @@
+gTTS>=2.5
+transformers>=4.30,<5
+torch>=2.0
+sentencepiece>=0.1.99
+sacremoses>=0.0.53
